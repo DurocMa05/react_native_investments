@@ -3,7 +3,7 @@
 ## Desired Capabilities/App Goals
 
 1. Provide users with a way to not only track their assets, liabilities, expenses, etc.
-2. Offer bite-size and long form educational lessons to help users understand the logic behind suggestions/general investing knowledge
+2. Offer bite-size and long form educational lessons to help users understand the logic behind surrent suggestions and milestones/general investing knowledge
 3. Give them a customized gameplan/roadmap for maximizing their net worth/cash flow through effective saving/investing suggestions, based on a combination of their current financial standing, skillset/interests, and US federal and state laws/regulations. Some examples:
   a. Knowing when to save/invest vs paying off loans based on interest rates
   b. Learning how to set up credit card/debt payments for efficiency
